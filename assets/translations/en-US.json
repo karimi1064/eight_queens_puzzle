@@ -1,0 +1,11 @@
+{
+  "eight_queens_puzzle": "Eight Queens Puzzle",
+  "reset": "Reset",
+  "reset_with_help": "Reset with help",
+  "help": "Help",
+  "source_code": "Source code",
+  "you_win": "Puzzle is solved!",
+  "ok": "OK",
+  "how_to_play": "How to play?",
+  "rules": "Place eight queens on an 8 x 8 chessboard so that no two queens threaten each other.\nClick on a square of the chessboard to place a queen."
+}
